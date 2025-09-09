@@ -1,2 +1,2 @@
 # github-study-
-#computer engineering 24iiu
+#computer engineering 24
